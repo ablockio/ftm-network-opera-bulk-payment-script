@@ -1,4 +1,3 @@
-var helper_web3 = require('./admin/helper_web3.js')
 const Web3 = require('web3');
 let json = require('./config.json')
 
