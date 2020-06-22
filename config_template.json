@@ -1,0 +1,19 @@
+{
+  "account" :{
+    "private_key": "YOUR_PRIVATE_KEY",
+    "public_key": "YOUR_PUBLIC_KEY"
+  },
+  "receivers":[{
+    "wallet" : "WALLET_1",
+    "amount" : 0.03
+  },
+  {
+    "wallet": "WALLET_2",
+    "amount" : 0.02
+  },
+  {
+    "wallet" : "WALLET_3",
+    "amount" : 0.01
+  }
+]
+}
